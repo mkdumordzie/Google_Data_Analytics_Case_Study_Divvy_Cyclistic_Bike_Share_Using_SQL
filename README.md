@@ -13,3 +13,19 @@ Before marketing can create a campaign, they need to know *why* and *how* these 
 * **How do annual members and casual riders use Cyclistic bikes differently?**
 
 By uncovering these hidden trends, we can give the marketing team data-driven recommendations to help them launch a successful campaign.
+
+# Data Source
+The dataset used for this case study is public data provided by **Motivate International Inc.**. 
+* You can access and download the original raw data here: [Click Here to View the Dataset](https://divvy-tripdata.s3.amazonaws.com/index.html)
+* **Data Privacy Note:** This data has been made available under a public license and does not contain any personally identifiable information (PII).
+
+# Tools Used
+* MYSQL
+
+# Data Cleaning
+
+# Analysis
+
+# Key Insights
+
+# Recommendations
