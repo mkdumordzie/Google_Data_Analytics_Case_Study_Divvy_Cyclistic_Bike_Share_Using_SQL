@@ -276,7 +276,10 @@ ORDER BY
 
 # Visual Report
 
-## Seasonal Ride By Member Type
+## Trip Duration Distribution By Member Type and Season
+![Visuals](<Visualization_Report/Trip Duration Distribution of Member Type and Seasons.png>)
+
+## Rides Per Month and Member Type
 ![Visuals](<Visualization_Report/Trip Duration Distribution of Member Type and Seasons.png>)
 
 # Key Insights
