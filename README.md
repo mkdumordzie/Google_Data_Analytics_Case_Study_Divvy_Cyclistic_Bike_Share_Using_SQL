@@ -272,7 +272,9 @@ ORDER BY
 * Determined the most frequent station to station route
 * Determined the most frequent station to station route by members
 * Determined the most frequent station to station route by casuals
-* Determined the ride per month for both casual and members 
+* Determined the ride per month for both casual and members
+
+# Visual Report
 
 # Key Insights
 * The casual ride duration has a high average and variability than member ride duration
