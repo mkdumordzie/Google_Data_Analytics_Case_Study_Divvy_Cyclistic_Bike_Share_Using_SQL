@@ -277,7 +277,7 @@ ORDER BY
 # Visual Report
 
 ## Seasonal Ride By Member Type
-![Visuals](Visualization_Report/Trip Duration Distribution of Member Type and Seasons.png)
+![Visuals](<Visualization_Report/Trip Duration Distribution of Member Type and Seasons.png>)
 
 # Key Insights
 * The casual ride duration has a high average and variability than member ride duration
