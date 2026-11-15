@@ -282,6 +282,9 @@ ORDER BY
 ## Rides Per Month and Member Type
 ![Visuals](<Visualization_Report/Number of Rides Per Month and Member_Type; Casual and Member.png>)
 
+## Rides Per Season and Member Type
+
+
 # Key Insights
 * The casual ride duration has a high average and variability than member ride duration
 * Casual ride duration variability and average is high during the summer compared to member ride duration
