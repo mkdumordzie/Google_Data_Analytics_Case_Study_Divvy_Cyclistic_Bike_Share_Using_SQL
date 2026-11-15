@@ -276,6 +276,9 @@ ORDER BY
 
 # Visual Report
 
+## Seasonal Ride By Member Type
+![Trip Duration Distribution of Member Type and Seasons](Trip Duration Distribution of Member Type and Seasons.png)
+
 # Key Insights
 * The casual ride duration has a high average and variability than member ride duration
 * Casual ride duration variability and average is high during the summer compared to member ride duration
