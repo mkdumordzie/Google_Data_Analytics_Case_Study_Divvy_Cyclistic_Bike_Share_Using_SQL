@@ -283,7 +283,7 @@ ORDER BY
 ![Visuals](<Visualization_Report/Number of Rides Per Month and Member_Type; Casual and Member.png>)
 
 ## Rides Per Season and Member Type
-![Visuals](<>)
+![Visuals](<Visualization_Report/Number of Rides Per Season and Member Type; Casual and Member.png>)
 
 # Key Insights
 * The casual ride duration has a high average and variability than member ride duration
